@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.uncommonruler.xposedtemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.uncommonruler.xposedtemplate.MyBundle
 
 class MyApplicationService {
 
